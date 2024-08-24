@@ -1,0 +1,105 @@
+2024-08-16 18:57:43,027 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:92]
+2024-08-17 10:00:03,024 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:92]
+2024-08-17 10:00:03,036 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:92]
+2024-08-17 10:00:03,037 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:92]
+2024-08-17 12:59:24,157 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:92]
+2024-08-17 13:00:22,438 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:92]
+2024-08-17 13:00:49,054 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:92]
+2024-08-17 13:00:49,061 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:92]
+2024-08-17 13:00:49,081 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:92]
+2024-08-20 10:05:44,981 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:92]
+2024-08-20 10:05:44,987 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:92]
+2024-08-20 10:05:44,984 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:92]
+2024-08-20 10:57:25,889 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-20 10:57:49,209 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-20 10:58:08,052 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-20 10:58:08,065 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-20 10:58:08,168 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-20 16:59:47,074 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-21 09:26:26,130 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-21 09:26:26,131 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-21 09:26:26,131 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-21 17:57:46,487 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-21 17:57:46,487 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-21 17:57:46,488 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-22 08:56:59,114 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-22 08:56:59,132 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-22 08:56:59,134 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-22 10:37:52,458 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-22 10:37:52,461 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-22 10:37:52,481 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-23 13:07:05,234 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-23 13:07:05,255 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-23 13:07:05,257 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-23 16:15:37,104 ERROR: Exception on /search [GET] [in /var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py:838]
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+  File "/var/www/project_flask/app/main/routes.py", line 199, in search
+    posts, total = Post.search(g.search_form.q.data, page,
+  File "/var/www/project_flask/app/models.py", line 23, in search
+    ids, total = query_index(cls.__tablename__, expression, page, per_page)
+  File "/var/www/project_flask/app/search.py", line 19, in query_index
+    search = current_app.elasticsearch.search(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/utils.py", line 446, in wrapped
+    return api(*args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/__init__.py", line 4119, in search
+    return self.perform_request(  # type: ignore[return-value]
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/_base.py", line 271, in perform_request
+    response = self._perform_request(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/_base.py", line 316, in _perform_request
+    meta, resp_body = self.transport.perform_request(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elastic_transport/_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elastic_transport/_node/_http_urllib3.py", line 202, in perform_request
+    raise err from None
+elastic_transport.TlsError: TLS error caused by: TlsError(TLS error caused by: SSLError([SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)))
+2024-08-23 16:17:21,998 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-23 16:17:22,022 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-23 16:17:22,041 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-23 16:17:34,277 ERROR: Exception on /search [GET] [in /var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py:838]
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+  File "/var/www/project_flask/app/main/routes.py", line 199, in search
+    posts, total = Post.search(g.search_form.q.data, page,
+  File "/var/www/project_flask/app/models.py", line 23, in search
+    ids, total = query_index(cls.__tablename__, expression, page, per_page)
+  File "/var/www/project_flask/app/search.py", line 19, in query_index
+    search = current_app.elasticsearch.search(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/utils.py", line 446, in wrapped
+    return api(*args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/__init__.py", line 4119, in search
+    return self.perform_request(  # type: ignore[return-value]
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/_base.py", line 271, in perform_request
+    response = self._perform_request(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/_base.py", line 316, in _perform_request
+    meta, resp_body = self.transport.perform_request(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elastic_transport/_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elastic_transport/_node/_http_urllib3.py", line 202, in perform_request
+    raise err from None
+elastic_transport.TlsError: TLS error caused by: TlsError(TLS error caused by: SSLError([SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)))
+2024-08-23 16:24:01,438 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-24 10:06:31,418 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-24 10:06:31,419 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-24 10:06:31,428 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-24 18:12:36,466 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-24 18:25:16,781 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]
+2024-08-24 18:29:00,728 INFO: project_flask startup [in /var/www/project_flask/app/__init__.py:95]

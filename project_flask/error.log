@@ -1,0 +1,1861 @@
+[2024-07-27 20:34:47 +0300] [16366] [INFO] Handling signal: term
+[2024-07-27 20:34:47 +0300] [16369] [INFO] Worker exiting (pid: 16369)
+[2024-07-27 20:34:47 +0300] [16367] [INFO] Worker exiting (pid: 16367)
+[2024-07-27 20:34:47 +0300] [16368] [INFO] Worker exiting (pid: 16368)
+[2024-07-27 20:34:48 +0300] [16366] [INFO] Shutting down: Master
+[2024-07-27 20:34:49 +0300] [20169] [INFO] Starting gunicorn 22.0.0
+[2024-07-27 20:34:49 +0300] [20169] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (20169)
+[2024-07-27 20:34:49 +0300] [20169] [INFO] Using worker: sync
+[2024-07-27 20:34:49 +0300] [20170] [INFO] Booting worker with pid: 20170
+[2024-07-27 20:34:49 +0300] [20171] [INFO] Booting worker with pid: 20171
+[2024-07-27 20:34:49 +0300] [20172] [INFO] Booting worker with pid: 20172
+[2024-07-27 20:34:50,176] INFO in __init__: project_flask startup
+[2024-07-27 20:34:50,198] INFO in __init__: project_flask startup
+[2024-07-27 20:34:50,227] INFO in __init__: project_flask startup
+[2024-07-27 20:48:43 +0300] [901] [INFO] Starting gunicorn 22.0.0
+[2024-07-27 20:48:43 +0300] [901] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (901)
+[2024-07-27 20:48:43 +0300] [901] [INFO] Using worker: sync
+[2024-07-27 20:48:43 +0300] [936] [INFO] Booting worker with pid: 936
+[2024-07-27 20:48:43 +0300] [961] [INFO] Booting worker with pid: 961
+[2024-07-27 20:48:43 +0300] [972] [INFO] Booting worker with pid: 972
+[2024-07-27 20:48:44,502] INFO in __init__: project_flask startup
+[2024-07-27 20:48:44,502] INFO in __init__: project_flask startup
+[2024-07-27 20:48:44,503] INFO in __init__: project_flask startup
+[2024-07-28 10:25:24 +0300] [773] [INFO] Starting gunicorn 22.0.0
+[2024-07-28 10:25:24 +0300] [773] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (773)
+[2024-07-28 10:25:24 +0300] [773] [INFO] Using worker: sync
+[2024-07-28 10:25:24 +0300] [908] [INFO] Booting worker with pid: 908
+[2024-07-28 10:25:24 +0300] [915] [INFO] Booting worker with pid: 915
+[2024-07-28 10:25:24 +0300] [924] [INFO] Booting worker with pid: 924
+[2024-07-28 10:25:27,357] INFO in __init__: project_flask startup
+[2024-07-28 10:25:27,359] INFO in __init__: project_flask startup
+[2024-07-28 10:25:27,359] INFO in __init__: project_flask startup
+[2024-07-28 10:26:19 +0300] [773] [INFO] Handling signal: term
+[2024-07-28 10:26:19 +0300] [908] [INFO] Worker exiting (pid: 908)
+[2024-07-28 10:26:19 +0300] [915] [INFO] Worker exiting (pid: 915)
+[2024-07-28 10:26:19 +0300] [924] [INFO] Worker exiting (pid: 924)
+[2024-07-28 10:26:20 +0300] [773] [INFO] Shutting down: Master
+[2024-07-28 10:26:21 +0300] [2119] [INFO] Starting gunicorn 22.0.0
+[2024-07-28 10:26:21 +0300] [2119] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (2119)
+[2024-07-28 10:26:21 +0300] [2119] [INFO] Using worker: sync
+[2024-07-28 10:26:21 +0300] [2120] [INFO] Booting worker with pid: 2120
+[2024-07-28 10:26:21 +0300] [2121] [INFO] Booting worker with pid: 2121
+[2024-07-28 10:26:21 +0300] [2123] [INFO] Booting worker with pid: 2123
+[2024-07-28 10:26:22,130] INFO in __init__: project_flask startup
+[2024-07-28 10:26:22,185] INFO in __init__: project_flask startup
+[2024-07-28 10:26:22,293] INFO in __init__: project_flask startup
+[2024-07-28 10:47:24 +0300] [2119] [INFO] Handling signal: term
+[2024-07-28 10:47:24 +0300] [2121] [INFO] Worker exiting (pid: 2121)
+[2024-07-28 10:47:24 +0300] [2120] [INFO] Worker exiting (pid: 2120)
+[2024-07-28 10:47:24 +0300] [2123] [INFO] Worker exiting (pid: 2123)
+[2024-07-28 10:47:24 +0300] [2119] [INFO] Shutting down: Master
+[2024-07-28 10:47:26 +0300] [7242] [INFO] Starting gunicorn 22.0.0
+[2024-07-28 10:47:26 +0300] [7242] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (7242)
+[2024-07-28 10:47:26 +0300] [7242] [INFO] Using worker: sync
+[2024-07-28 10:47:26 +0300] [7243] [INFO] Booting worker with pid: 7243
+[2024-07-28 10:47:26 +0300] [7245] [INFO] Booting worker with pid: 7245
+[2024-07-28 10:47:26 +0300] [7246] [INFO] Booting worker with pid: 7246
+[2024-07-28 10:47:26,909] INFO in __init__: project_flask startup
+[2024-07-28 10:47:26,960] INFO in __init__: project_flask startup
+[2024-07-28 10:47:26,980] INFO in __init__: project_flask startup
+[2024-07-28 11:23:20 +0300] [7242] [INFO] Handling signal: term
+[2024-07-28 11:23:20 +0300] [7246] [INFO] Worker exiting (pid: 7246)
+[2024-07-28 11:23:20 +0300] [7245] [INFO] Worker exiting (pid: 7245)
+[2024-07-28 11:23:20 +0300] [7243] [INFO] Worker exiting (pid: 7243)
+[2024-07-28 11:23:21 +0300] [7242] [INFO] Shutting down: Master
+[2024-07-28 11:23:22 +0300] [15634] [INFO] Starting gunicorn 22.0.0
+[2024-07-28 11:23:22 +0300] [15634] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (15634)
+[2024-07-28 11:23:22 +0300] [15634] [INFO] Using worker: sync
+[2024-07-28 11:23:22 +0300] [15635] [INFO] Booting worker with pid: 15635
+[2024-07-28 11:23:22 +0300] [15636] [INFO] Booting worker with pid: 15636
+[2024-07-28 11:23:22 +0300] [15637] [INFO] Booting worker with pid: 15637
+[2024-07-28 11:23:23,221] INFO in __init__: project_flask startup
+[2024-07-28 11:23:23,262] INFO in __init__: project_flask startup
+[2024-07-28 11:23:23,263] INFO in __init__: project_flask startup
+[2024-07-28 12:40:42 +0300] [936] [INFO] Starting gunicorn 22.0.0
+[2024-07-28 12:40:42 +0300] [936] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (936)
+[2024-07-28 12:40:42 +0300] [936] [INFO] Using worker: sync
+[2024-07-28 12:40:42 +0300] [973] [INFO] Booting worker with pid: 973
+[2024-07-28 12:40:42 +0300] [980] [INFO] Booting worker with pid: 980
+[2024-07-28 12:40:43 +0300] [990] [INFO] Booting worker with pid: 990
+[2024-07-28 12:40:44,250] INFO in __init__: project_flask startup
+[2024-07-28 12:40:44,250] INFO in __init__: project_flask startup
+[2024-07-28 12:40:44,252] INFO in __init__: project_flask startup
+[2024-07-28 18:01:13 +0300] [933] [INFO] Starting gunicorn 22.0.0
+[2024-07-28 18:01:13 +0300] [933] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (933)
+[2024-07-28 18:01:13 +0300] [933] [INFO] Using worker: sync
+[2024-07-28 18:01:13 +0300] [972] [INFO] Booting worker with pid: 972
+[2024-07-28 18:01:13 +0300] [993] [INFO] Booting worker with pid: 993
+[2024-07-28 18:01:13 +0300] [994] [INFO] Booting worker with pid: 994
+[2024-07-28 18:01:14,488] INFO in __init__: project_flask startup
+[2024-07-28 18:01:14,488] INFO in __init__: project_flask startup
+[2024-07-28 18:01:14,488] INFO in __init__: project_flask startup
+[2024-07-29 12:56:53 +0300] [820] [INFO] Starting gunicorn 22.0.0
+[2024-07-29 12:56:53 +0300] [820] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (820)
+[2024-07-29 12:56:53 +0300] [820] [INFO] Using worker: sync
+[2024-07-29 12:56:53 +0300] [941] [INFO] Booting worker with pid: 941
+[2024-07-29 12:56:53 +0300] [947] [INFO] Booting worker with pid: 947
+[2024-07-29 12:56:53 +0300] [959] [INFO] Booting worker with pid: 959
+[2024-07-29 12:56:55,528] INFO in __init__: project_flask startup
+[2024-07-29 12:56:55,528] INFO in __init__: project_flask startup
+[2024-07-29 12:56:55,528] INFO in __init__: project_flask startup
+[2024-07-29 13:21:36 +0300] [874] [INFO] Starting gunicorn 22.0.0
+[2024-07-29 13:21:36 +0300] [874] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (874)
+[2024-07-29 13:21:36 +0300] [874] [INFO] Using worker: sync
+[2024-07-29 13:21:36 +0300] [910] [INFO] Booting worker with pid: 910
+[2024-07-29 13:21:36 +0300] [935] [INFO] Booting worker with pid: 935
+[2024-07-29 13:21:36 +0300] [953] [INFO] Booting worker with pid: 953
+[2024-07-29 13:21:37,787] INFO in __init__: project_flask startup
+[2024-07-29 13:21:37,787] INFO in __init__: project_flask startup
+[2024-07-29 13:21:37,787] INFO in __init__: project_flask startup
+[2024-07-29 16:24:35 +0300] [913] [INFO] Starting gunicorn 22.0.0
+[2024-07-29 16:24:35 +0300] [913] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (913)
+[2024-07-29 16:24:35 +0300] [913] [INFO] Using worker: sync
+[2024-07-29 16:24:35 +0300] [959] [INFO] Booting worker with pid: 959
+[2024-07-29 16:24:35 +0300] [965] [INFO] Booting worker with pid: 965
+[2024-07-29 16:24:35 +0300] [983] [INFO] Booting worker with pid: 983
+[2024-07-29 16:24:37,232] INFO in __init__: project_flask startup
+[2024-07-29 16:24:37,232] INFO in __init__: project_flask startup
+[2024-07-29 16:24:37,233] INFO in __init__: project_flask startup
+[2024-07-29 17:31:00 +0300] [899] [INFO] Starting gunicorn 22.0.0
+[2024-07-29 17:31:00 +0300] [899] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (899)
+[2024-07-29 17:31:00 +0300] [899] [INFO] Using worker: sync
+[2024-07-29 17:31:00 +0300] [932] [INFO] Booting worker with pid: 932
+[2024-07-29 17:31:00 +0300] [933] [INFO] Booting worker with pid: 933
+[2024-07-29 17:31:00 +0300] [950] [INFO] Booting worker with pid: 950
+[2024-07-29 17:31:02,047] INFO in __init__: project_flask startup
+[2024-07-29 17:31:02,047] INFO in __init__: project_flask startup
+[2024-07-29 17:31:02,047] INFO in __init__: project_flask startup
+[2024-07-29 17:39:08 +0300] [933] [INFO] Starting gunicorn 22.0.0
+[2024-07-29 17:39:08 +0300] [933] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (933)
+[2024-07-29 17:39:08 +0300] [933] [INFO] Using worker: sync
+[2024-07-29 17:39:08 +0300] [972] [INFO] Booting worker with pid: 972
+[2024-07-29 17:39:08 +0300] [984] [INFO] Booting worker with pid: 984
+[2024-07-29 17:39:08 +0300] [991] [INFO] Booting worker with pid: 991
+[2024-07-29 17:39:10,129] INFO in __init__: project_flask startup
+[2024-07-29 17:39:10,129] INFO in __init__: project_flask startup
+[2024-07-29 17:39:10,130] INFO in __init__: project_flask startup
+[2024-07-29 20:40:41 +0300] [811] [INFO] Starting gunicorn 22.0.0
+[2024-07-29 20:40:41 +0300] [811] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (811)
+[2024-07-29 20:40:41 +0300] [811] [INFO] Using worker: sync
+[2024-07-29 20:40:41 +0300] [920] [INFO] Booting worker with pid: 920
+[2024-07-29 20:40:41 +0300] [932] [INFO] Booting worker with pid: 932
+[2024-07-29 20:40:41 +0300] [935] [INFO] Booting worker with pid: 935
+[2024-07-29 20:40:42,471] INFO in __init__: project_flask startup
+[2024-07-29 20:40:42,471] INFO in __init__: project_flask startup
+[2024-07-29 20:40:42,471] INFO in __init__: project_flask startup
+[2024-07-31 11:58:02 +0300] [841] [INFO] Starting gunicorn 22.0.0
+[2024-07-31 11:58:02 +0300] [841] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (841)
+[2024-07-31 11:58:02 +0300] [841] [INFO] Using worker: sync
+[2024-07-31 11:58:02 +0300] [980] [INFO] Booting worker with pid: 980
+[2024-07-31 11:58:02 +0300] [999] [INFO] Booting worker with pid: 999
+[2024-07-31 11:58:02 +0300] [1013] [INFO] Booting worker with pid: 1013
+[2024-07-31 11:58:03,716] INFO in __init__: project_flask startup
+[2024-07-31 11:58:03,716] INFO in __init__: project_flask startup
+[2024-07-31 11:58:03,717] INFO in __init__: project_flask startup
+[2024-08-01 09:54:08 +0300] [845] [INFO] Starting gunicorn 22.0.0
+[2024-08-01 09:54:08 +0300] [845] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (845)
+[2024-08-01 09:54:08 +0300] [845] [INFO] Using worker: sync
+[2024-08-01 09:54:08 +0300] [946] [INFO] Booting worker with pid: 946
+[2024-08-01 09:54:08 +0300] [947] [INFO] Booting worker with pid: 947
+[2024-08-01 09:54:08 +0300] [950] [INFO] Booting worker with pid: 950
+[2024-08-01 09:54:09,523] INFO in __init__: project_flask startup
+[2024-08-01 09:54:09,523] INFO in __init__: project_flask startup
+[2024-08-01 09:54:09,523] INFO in __init__: project_flask startup
+[2024-08-01 10:34:17 +0300] [946] [INFO] Starting gunicorn 22.0.0
+[2024-08-01 10:34:17 +0300] [946] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (946)
+[2024-08-01 10:34:17 +0300] [946] [INFO] Using worker: sync
+[2024-08-01 10:34:17 +0300] [982] [INFO] Booting worker with pid: 982
+[2024-08-01 10:34:17 +0300] [1002] [INFO] Booting worker with pid: 1002
+[2024-08-01 10:34:17 +0300] [1023] [INFO] Booting worker with pid: 1023
+[2024-08-01 10:34:19,221] INFO in __init__: project_flask startup
+[2024-08-01 10:34:19,221] INFO in __init__: project_flask startup
+[2024-08-01 10:34:19,222] INFO in __init__: project_flask startup
+[2024-08-01 18:36:11 +0300] [880] [INFO] Starting gunicorn 22.0.0
+[2024-08-01 18:36:11 +0300] [880] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (880)
+[2024-08-01 18:36:11 +0300] [880] [INFO] Using worker: sync
+[2024-08-01 18:36:11 +0300] [962] [INFO] Booting worker with pid: 962
+[2024-08-01 18:36:11 +0300] [969] [INFO] Booting worker with pid: 969
+[2024-08-01 18:36:11 +0300] [993] [INFO] Booting worker with pid: 993
+[2024-08-01 18:36:12,793] INFO in __init__: project_flask startup
+[2024-08-01 18:36:12,793] INFO in __init__: project_flask startup
+[2024-08-01 18:36:12,794] INFO in __init__: project_flask startup
+--- Logging error ---
+--- Logging error ---
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/logging/handlers.py", line 74, in emit
+    self.doRollover()
+  File "/usr/lib/python3.10/logging/handlers.py", line 174, in doRollover
+    os.remove(dfn)
+  File "/usr/lib/python3.10/logging/handlers.py", line 74, in emit
+    self.doRollover()
+  File "/usr/lib/python3.10/logging/handlers.py", line 175, in doRollover
+    os.rename(sfn, dfn)
+FileNotFoundError: [Errno 2] No such file or directory: '/var/www/project_flask/logs/project_flask.log.10'
+Call stack:
+FileNotFoundError: [Errno 2] No such file or directory: '/var/www/project_flask/logs/project_flask.log.9' -> '/var/www/project_flask/logs/project_flask.log.10'
+Call stack:
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]", prog=prog).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 642, in spawn_workers
+    self.spawn_worker()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 571, in manage_workers
+    self.spawn_workers()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 642, in spawn_workers
+    self.spawn_worker()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/arbiter.py", line 609, in spawn_worker
+    worker.init_process()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 134, in init_process
+    self.load_wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 146, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 58, in load
+    return self.load_wsgiapp()
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/app/wsgiapp.py", line 48, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/util.py", line 371, in import_app
+    mod = importlib.import_module(module)
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "/var/www/project_flask/wsgi.py", line 1, in <module>
+    from project_flask import app
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "/var/www/project_flask/wsgi.py", line 1, in <module>
+    from project_flask import app
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "/var/www/project_flask/project_flask.py", line 7, in <module>
+    app = create_app()
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "/var/www/project_flask/app/__init__.py", line 92, in create_app
+    app.logger.info('project_flask startup')
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/var/www/project_flask/project_flask.py", line 7, in <module>
+    app = create_app()
+  File "/var/www/project_flask/app/__init__.py", line 92, in create_app
+    app.logger.info('project_flask startup')
+Message: 'project_flask startup'
+Arguments: ()
+Message: 'project_flask startup'
+Arguments: ()
+[2024-08-02 11:24:42 +0300] [930] [INFO] Starting gunicorn 22.0.0
+[2024-08-02 11:24:42 +0300] [930] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (930)
+[2024-08-02 11:24:42 +0300] [930] [INFO] Using worker: sync
+[2024-08-02 11:24:42 +0300] [969] [INFO] Booting worker with pid: 969
+[2024-08-02 11:24:42 +0300] [982] [INFO] Booting worker with pid: 982
+[2024-08-02 11:24:42 +0300] [998] [INFO] Booting worker with pid: 998
+[2024-08-02 11:24:43,930] INFO in __init__: project_flask startup
+[2024-08-02 11:24:43,930] INFO in __init__: project_flask startup
+[2024-08-02 11:24:43,931] INFO in __init__: project_flask startup
+[2024-08-02 19:24:16 +0300] [783] [INFO] Starting gunicorn 22.0.0
+[2024-08-02 19:24:16 +0300] [783] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (783)
+[2024-08-02 19:24:16 +0300] [783] [INFO] Using worker: sync
+[2024-08-02 19:24:16 +0300] [879] [INFO] Booting worker with pid: 879
+[2024-08-02 19:24:16 +0300] [931] [INFO] Booting worker with pid: 931
+[2024-08-02 19:24:16 +0300] [951] [INFO] Booting worker with pid: 951
+[2024-08-02 19:24:17,874] INFO in __init__: project_flask startup
+[2024-08-02 19:24:17,878] INFO in __init__: project_flask startup
+[2024-08-02 19:24:17,878] INFO in __init__: project_flask startup
+[2024-08-03 15:38:59 +0300] [779] [INFO] Starting gunicorn 22.0.0
+[2024-08-03 15:38:59 +0300] [779] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (779)
+[2024-08-03 15:38:59 +0300] [779] [INFO] Using worker: sync
+[2024-08-03 15:38:59 +0300] [881] [INFO] Booting worker with pid: 881
+[2024-08-03 15:38:59 +0300] [914] [INFO] Booting worker with pid: 914
+[2024-08-03 15:39:00 +0300] [931] [INFO] Booting worker with pid: 931
+[2024-08-03 15:39:01,965] INFO in __init__: project_flask startup
+[2024-08-03 15:39:01,965] INFO in __init__: project_flask startup
+[2024-08-03 15:39:01,965] INFO in __init__: project_flask startup
+[2024-08-03 16:53:57 +0300] [923] [INFO] Starting gunicorn 22.0.0
+[2024-08-03 16:53:57 +0300] [923] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (923)
+[2024-08-03 16:53:57 +0300] [923] [INFO] Using worker: sync
+[2024-08-03 16:53:57 +0300] [959] [INFO] Booting worker with pid: 959
+[2024-08-03 16:53:57 +0300] [962] [INFO] Booting worker with pid: 962
+[2024-08-03 16:53:57 +0300] [964] [INFO] Booting worker with pid: 964
+[2024-08-03 16:53:59,230] INFO in __init__: project_flask startup
+[2024-08-03 16:53:59,231] INFO in __init__: project_flask startup
+[2024-08-03 16:53:59,231] INFO in __init__: project_flask startup
+[2024-08-05 15:54:27 +0300] [941] [INFO] Starting gunicorn 22.0.0
+[2024-08-05 15:54:27 +0300] [941] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (941)
+[2024-08-05 15:54:27 +0300] [941] [INFO] Using worker: sync
+[2024-08-05 15:54:27 +0300] [979] [INFO] Booting worker with pid: 979
+[2024-08-05 15:54:27 +0300] [995] [INFO] Booting worker with pid: 995
+[2024-08-05 15:54:28 +0300] [1029] [INFO] Booting worker with pid: 1029
+[2024-08-05 15:54:30,556] INFO in __init__: project_flask startup
+[2024-08-05 15:54:30,557] INFO in __init__: project_flask startup
+[2024-08-05 15:54:30,557] INFO in __init__: project_flask startup
+[2024-08-05 16:24:27 +0300] [862] [INFO] Starting gunicorn 22.0.0
+[2024-08-05 16:24:27 +0300] [862] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (862)
+[2024-08-05 16:24:27 +0300] [862] [INFO] Using worker: sync
+[2024-08-05 16:24:27 +0300] [899] [INFO] Booting worker with pid: 899
+[2024-08-05 16:24:27 +0300] [922] [INFO] Booting worker with pid: 922
+[2024-08-05 16:24:27 +0300] [943] [INFO] Booting worker with pid: 943
+[2024-08-05 16:24:28,987] INFO in __init__: project_flask startup
+[2024-08-05 16:24:28,987] INFO in __init__: project_flask startup
+[2024-08-05 16:24:28,991] INFO in __init__: project_flask startup
+[2024-08-05 19:53:47 +0300] [892] [INFO] Starting gunicorn 22.0.0
+[2024-08-05 19:53:47 +0300] [892] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (892)
+[2024-08-05 19:53:47 +0300] [892] [INFO] Using worker: sync
+[2024-08-05 19:53:47 +0300] [949] [INFO] Booting worker with pid: 949
+[2024-08-05 19:53:47 +0300] [957] [INFO] Booting worker with pid: 957
+[2024-08-05 19:53:47 +0300] [963] [INFO] Booting worker with pid: 963
+[2024-08-05 19:53:49,126] INFO in __init__: project_flask startup
+[2024-08-05 19:53:49,126] INFO in __init__: project_flask startup
+[2024-08-05 19:53:49,127] INFO in __init__: project_flask startup
+[2024-08-06 16:12:12 +0300] [940] [INFO] Starting gunicorn 22.0.0
+[2024-08-06 16:12:12 +0300] [940] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (940)
+[2024-08-06 16:12:12 +0300] [940] [INFO] Using worker: sync
+[2024-08-06 16:12:12 +0300] [978] [INFO] Booting worker with pid: 978
+[2024-08-06 16:12:12 +0300] [982] [INFO] Booting worker with pid: 982
+[2024-08-06 16:12:12 +0300] [987] [INFO] Booting worker with pid: 987
+[2024-08-06 16:12:14,171] INFO in __init__: project_flask startup
+[2024-08-06 16:12:14,171] INFO in __init__: project_flask startup
+[2024-08-06 16:12:14,171] INFO in __init__: project_flask startup
+[2024-08-07 20:10:29 +0300] [791] [INFO] Starting gunicorn 22.0.0
+[2024-08-07 20:10:29 +0300] [791] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (791)
+[2024-08-07 20:10:29 +0300] [791] [INFO] Using worker: sync
+[2024-08-07 20:10:29 +0300] [898] [INFO] Booting worker with pid: 898
+[2024-08-07 20:10:29 +0300] [928] [INFO] Booting worker with pid: 928
+[2024-08-07 20:10:29 +0300] [943] [INFO] Booting worker with pid: 943
+[2024-08-07 20:10:31,180] INFO in __init__: project_flask startup
+[2024-08-07 20:10:31,180] INFO in __init__: project_flask startup
+[2024-08-07 20:10:31,180] INFO in __init__: project_flask startup
+[2024-08-07 20:28:05 +0300] [791] [INFO] Handling signal: term
+[2024-08-07 20:28:05 +0300] [898] [INFO] Worker exiting (pid: 898)
+[2024-08-07 20:28:05 +0300] [928] [INFO] Worker exiting (pid: 928)
+[2024-08-07 20:28:05 +0300] [943] [INFO] Worker exiting (pid: 943)
+[2024-08-07 20:28:05 +0300] [791] [INFO] Shutting down: Master
+[2024-08-07 20:28:39 +0300] [777] [INFO] Starting gunicorn 22.0.0
+[2024-08-07 20:28:39 +0300] [777] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (777)
+[2024-08-07 20:28:39 +0300] [777] [INFO] Using worker: sync
+[2024-08-07 20:28:39 +0300] [808] [INFO] Booting worker with pid: 808
+[2024-08-07 20:28:39 +0300] [814] [INFO] Booting worker with pid: 814
+[2024-08-07 20:28:39 +0300] [820] [INFO] Booting worker with pid: 820
+[2024-08-07 20:28:41,382] INFO in __init__: project_flask startup
+[2024-08-07 20:28:41,382] INFO in __init__: project_flask startup
+[2024-08-07 20:28:41,382] INFO in __init__: project_flask startup
+[2024-08-07 20:36:34 +0300] [777] [INFO] Handling signal: term
+[2024-08-07 20:36:34 +0300] [814] [INFO] Worker exiting (pid: 814)
+[2024-08-07 20:36:34 +0300] [808] [INFO] Worker exiting (pid: 808)
+[2024-08-07 20:36:34 +0300] [820] [INFO] Worker exiting (pid: 820)
+[2024-08-07 20:36:34 +0300] [777] [INFO] Shutting down: Master
+[2024-08-07 20:38:25 +0300] [788] [INFO] Starting gunicorn 22.0.0
+[2024-08-07 20:38:25 +0300] [788] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (788)
+[2024-08-07 20:38:25 +0300] [788] [INFO] Using worker: sync
+[2024-08-07 20:38:25 +0300] [821] [INFO] Booting worker with pid: 821
+[2024-08-07 20:38:25 +0300] [828] [INFO] Booting worker with pid: 828
+[2024-08-07 20:38:25 +0300] [840] [INFO] Booting worker with pid: 840
+[2024-08-07 20:38:26,696] INFO in __init__: project_flask startup
+[2024-08-07 20:38:26,696] INFO in __init__: project_flask startup
+[2024-08-07 20:38:26,699] INFO in __init__: project_flask startup
+[2024-08-08 08:29:11 +0300] [807] [INFO] Starting gunicorn 22.0.0
+[2024-08-08 08:29:11 +0300] [807] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (807)
+[2024-08-08 08:29:11 +0300] [807] [INFO] Using worker: sync
+[2024-08-08 08:29:11 +0300] [954] [INFO] Booting worker with pid: 954
+[2024-08-08 08:29:11 +0300] [956] [INFO] Booting worker with pid: 956
+[2024-08-08 08:29:11 +0300] [969] [INFO] Booting worker with pid: 969
+[2024-08-08 08:29:14,401] INFO in __init__: project_flask startup
+[2024-08-08 08:29:14,401] INFO in __init__: project_flask startup
+[2024-08-08 08:29:14,404] INFO in __init__: project_flask startup
+[2024-08-12 11:30:28 +0300] [712] [INFO] Starting gunicorn 22.0.0
+[2024-08-12 11:30:28 +0300] [712] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (712)
+[2024-08-12 11:30:28 +0300] [712] [INFO] Using worker: sync
+[2024-08-12 11:30:28 +0300] [817] [INFO] Booting worker with pid: 817
+[2024-08-12 11:30:28 +0300] [827] [INFO] Booting worker with pid: 827
+[2024-08-12 11:30:28 +0300] [839] [INFO] Booting worker with pid: 839
+[2024-08-12 11:30:30,438] INFO in __init__: project_flask startup
+[2024-08-12 11:30:30,438] INFO in __init__: project_flask startup
+[2024-08-12 11:30:30,440] INFO in __init__: project_flask startup
+[2024-08-12 11:52:41 +0300] [930] [INFO] Starting gunicorn 22.0.0
+[2024-08-12 11:52:41 +0300] [930] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (930)
+[2024-08-12 11:52:41 +0300] [930] [INFO] Using worker: sync
+[2024-08-12 11:52:41 +0300] [973] [INFO] Booting worker with pid: 973
+[2024-08-12 11:52:41 +0300] [981] [INFO] Booting worker with pid: 981
+[2024-08-12 11:52:41 +0300] [990] [INFO] Booting worker with pid: 990
+[2024-08-12 11:52:42,825] INFO in __init__: project_flask startup
+[2024-08-12 11:52:42,825] INFO in __init__: project_flask startup
+[2024-08-12 11:52:42,825] INFO in __init__: project_flask startup
+[2024-08-12 12:54:34 +0300] [6140] [INFO] Starting gunicorn 22.0.0
+[2024-08-12 12:54:34 +0300] [6140] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (6140)
+[2024-08-12 12:54:34 +0300] [6140] [INFO] Using worker: sync
+[2024-08-12 12:54:34 +0300] [6141] [INFO] Booting worker with pid: 6141
+[2024-08-12 12:54:34 +0300] [6142] [INFO] Booting worker with pid: 6142
+[2024-08-12 12:54:34 +0300] [6144] [INFO] Booting worker with pid: 6144
+[2024-08-12 12:54:44,758] INFO in __init__: project_flask startup
+[2024-08-12 12:54:44,763] INFO in __init__: project_flask startup
+[2024-08-12 12:54:44,770] INFO in __init__: project_flask startup
+[2024-08-12 12:54:44,901] ERROR in app: Exception on /notifications [GET]
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 697, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 878, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1253, in preprocess_request
+    rv = self.ensure_sync(before_func)()
+  File "/var/www/project_flask/app/main/routes.py", line 16, in before_request
+    if current_user.is_authenticated:
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 318, in __get__
+    obj = instance._get_current_object()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 526, in _get_current_object
+    return get_name(local())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 370, in _get_user
+    current_app.login_manager._load_user()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/login_manager.py", line 364, in _load_user
+    user = self._user_callback(user_id)
+  File "/var/www/project_flask/app/models.py", line 100, in load_user
+    return db.session.get(User, int(id))
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/scoping.py", line 1060, in get
+    return self._proxied.get(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3682, in get
+    return self._get_impl(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3862, in _get_impl
+    return db_load_fn(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/loading.py", line 694, in load_on_pk_identity
+    session.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2236, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2353, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+sqlalchemy.exc.ProgrammingError: (mysql.connector.errors.ProgrammingError) 1146 (42S02): Table 'testdb.user' doesn't exist
+[SQL: SELECT user.id AS user_id, user.username AS user_username, user.email AS user_email, user.password_hash AS user_password_hash, user.about_me AS user_about_me, user.last_seen AS user_last_seen, user.last_message_read_time AS user_last_message_read_time 
+FROM user 
+WHERE user.id = %(pk_1)s]
+[parameters: {'pk_1': 2}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+[2024-08-12 12:54:45 +0300] [6142] [ERROR] Error handling request /notifications?since=0
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 697, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 878, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1253, in preprocess_request
+    rv = self.ensure_sync(before_func)()
+  File "/var/www/project_flask/app/main/routes.py", line 16, in before_request
+    if current_user.is_authenticated:
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 318, in __get__
+    obj = instance._get_current_object()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 526, in _get_current_object
+    return get_name(local())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 370, in _get_user
+    current_app.login_manager._load_user()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/login_manager.py", line 364, in _load_user
+    user = self._user_callback(user_id)
+  File "/var/www/project_flask/app/models.py", line 100, in load_user
+    return db.session.get(User, int(id))
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/scoping.py", line 1060, in get
+    return self._proxied.get(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3682, in get
+    return self._get_impl(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3862, in _get_impl
+    return db_load_fn(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/loading.py", line 694, in load_on_pk_identity
+    session.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2236, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2353, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+sqlalchemy.exc.ProgrammingError: (mysql.connector.errors.ProgrammingError) 1146 (42S02): Table 'testdb.user' doesn't exist
+[SQL: SELECT user.id AS user_id, user.username AS user_username, user.email AS user_email, user.password_hash AS user_password_hash, user.about_me AS user_about_me, user.last_seen AS user_last_seen, user.last_message_read_time AS user_last_message_read_time 
+FROM user 
+WHERE user.id = %(pk_1)s]
+[parameters: {'pk_1': 2}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 697, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1498, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1476, in wsgi_app
+    response = self.handle_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 823, in handle_exception
+    server_error = self.ensure_sync(handler)(server_error)
+  File "/var/www/project_flask/app/errors/handlers.py", line 14, in internal_error
+    return render_template('errors/500.html'), 500
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/templating.py", line 127, in _render
+    app.update_template_context(context)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 493, in update_template_context
+    context.update(self.ensure_sync(func)())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 405, in _user_context_processor
+    return dict(current_user=_get_user())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 370, in _get_user
+    current_app.login_manager._load_user()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/login_manager.py", line 364, in _load_user
+    user = self._user_callback(user_id)
+  File "/var/www/project_flask/app/models.py", line 100, in load_user
+    return db.session.get(User, int(id))
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/scoping.py", line 1060, in get
+    return self._proxied.get(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3682, in get
+    return self._get_impl(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3862, in _get_impl
+    return db_load_fn(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/loading.py", line 694, in load_on_pk_identity
+    session.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2236, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2353, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+sqlalchemy.exc.ProgrammingError: (mysql.connector.errors.ProgrammingError) 1146 (42S02): Table 'testdb.user' doesn't exist
+[SQL: SELECT user.id AS user_id, user.username AS user_username, user.email AS user_email, user.password_hash AS user_password_hash, user.about_me AS user_about_me, user.last_seen AS user_last_seen, user.last_message_read_time AS user_last_message_read_time 
+FROM user 
+WHERE user.id = %(pk_1)s]
+[parameters: {'pk_1': 2}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+[2024-08-12 12:54:46,803] ERROR in app: Exception on /notifications [GET]
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 697, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 878, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1253, in preprocess_request
+    rv = self.ensure_sync(before_func)()
+  File "/var/www/project_flask/app/main/routes.py", line 16, in before_request
+    if current_user.is_authenticated:
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 318, in __get__
+    obj = instance._get_current_object()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 526, in _get_current_object
+    return get_name(local())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 370, in _get_user
+    current_app.login_manager._load_user()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/login_manager.py", line 364, in _load_user
+    user = self._user_callback(user_id)
+  File "/var/www/project_flask/app/models.py", line 100, in load_user
+    return db.session.get(User, int(id))
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/scoping.py", line 1060, in get
+    return self._proxied.get(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3682, in get
+    return self._get_impl(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3862, in _get_impl
+    return db_load_fn(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/loading.py", line 694, in load_on_pk_identity
+    session.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2236, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2353, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+sqlalchemy.exc.ProgrammingError: (mysql.connector.errors.ProgrammingError) 1146 (42S02): Table 'testdb.user' doesn't exist
+[SQL: SELECT user.id AS user_id, user.username AS user_username, user.email AS user_email, user.password_hash AS user_password_hash, user.about_me AS user_about_me, user.last_seen AS user_last_seen, user.last_message_read_time AS user_last_message_read_time 
+FROM user 
+WHERE user.id = %(pk_1)s]
+[parameters: {'pk_1': 2}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+[2024-08-12 12:54:46 +0300] [6141] [ERROR] Error handling request /notifications?since=0
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 697, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 878, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1253, in preprocess_request
+    rv = self.ensure_sync(before_func)()
+  File "/var/www/project_flask/app/main/routes.py", line 16, in before_request
+    if current_user.is_authenticated:
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 318, in __get__
+    obj = instance._get_current_object()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 526, in _get_current_object
+    return get_name(local())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 370, in _get_user
+    current_app.login_manager._load_user()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/login_manager.py", line 364, in _load_user
+    user = self._user_callback(user_id)
+  File "/var/www/project_flask/app/models.py", line 100, in load_user
+    return db.session.get(User, int(id))
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/scoping.py", line 1060, in get
+    return self._proxied.get(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3682, in get
+    return self._get_impl(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3862, in _get_impl
+    return db_load_fn(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/loading.py", line 694, in load_on_pk_identity
+    session.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2236, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2353, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+sqlalchemy.exc.ProgrammingError: (mysql.connector.errors.ProgrammingError) 1146 (42S02): Table 'testdb.user' doesn't exist
+[SQL: SELECT user.id AS user_id, user.username AS user_username, user.email AS user_email, user.password_hash AS user_password_hash, user.about_me AS user_about_me, user.last_seen AS user_last_seen, user.last_message_read_time AS user_last_message_read_time 
+FROM user 
+WHERE user.id = %(pk_1)s]
+[parameters: {'pk_1': 2}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 697, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1498, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1476, in wsgi_app
+    response = self.handle_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 823, in handle_exception
+    server_error = self.ensure_sync(handler)(server_error)
+  File "/var/www/project_flask/app/errors/handlers.py", line 14, in internal_error
+    return render_template('errors/500.html'), 500
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/templating.py", line 127, in _render
+    app.update_template_context(context)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 493, in update_template_context
+    context.update(self.ensure_sync(func)())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 405, in _user_context_processor
+    return dict(current_user=_get_user())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 370, in _get_user
+    current_app.login_manager._load_user()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/login_manager.py", line 364, in _load_user
+    user = self._user_callback(user_id)
+  File "/var/www/project_flask/app/models.py", line 100, in load_user
+    return db.session.get(User, int(id))
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/scoping.py", line 1060, in get
+    return self._proxied.get(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3682, in get
+    return self._get_impl(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3862, in _get_impl
+    return db_load_fn(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/loading.py", line 694, in load_on_pk_identity
+    session.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2236, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2353, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+sqlalchemy.exc.ProgrammingError: (mysql.connector.errors.ProgrammingError) 1146 (42S02): Table 'testdb.user' doesn't exist
+[SQL: SELECT user.id AS user_id, user.username AS user_username, user.email AS user_email, user.password_hash AS user_password_hash, user.about_me AS user_about_me, user.last_seen AS user_last_seen, user.last_message_read_time AS user_last_message_read_time 
+FROM user 
+WHERE user.id = %(pk_1)s]
+[parameters: {'pk_1': 2}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+[2024-08-12 12:54:48,768] ERROR in app: Exception on /user/admin [GET]
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 697, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 878, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1253, in preprocess_request
+    rv = self.ensure_sync(before_func)()
+  File "/var/www/project_flask/app/main/routes.py", line 16, in before_request
+    if current_user.is_authenticated:
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 318, in __get__
+    obj = instance._get_current_object()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 526, in _get_current_object
+    return get_name(local())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 370, in _get_user
+    current_app.login_manager._load_user()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/login_manager.py", line 364, in _load_user
+    user = self._user_callback(user_id)
+  File "/var/www/project_flask/app/models.py", line 100, in load_user
+    return db.session.get(User, int(id))
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/scoping.py", line 1060, in get
+    return self._proxied.get(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3682, in get
+    return self._get_impl(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3862, in _get_impl
+    return db_load_fn(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/loading.py", line 694, in load_on_pk_identity
+    session.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2236, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2353, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+sqlalchemy.exc.ProgrammingError: (mysql.connector.errors.ProgrammingError) 1146 (42S02): Table 'testdb.user' doesn't exist
+[SQL: SELECT user.id AS user_id, user.username AS user_username, user.email AS user_email, user.password_hash AS user_password_hash, user.about_me AS user_about_me, user.last_seen AS user_last_seen, user.last_message_read_time AS user_last_message_read_time 
+FROM user 
+WHERE user.id = %(pk_1)s]
+[parameters: {'pk_1': 2}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+[2024-08-12 12:54:48 +0300] [6142] [ERROR] Error handling request /user/admin
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 697, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 878, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1253, in preprocess_request
+    rv = self.ensure_sync(before_func)()
+  File "/var/www/project_flask/app/main/routes.py", line 16, in before_request
+    if current_user.is_authenticated:
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 318, in __get__
+    obj = instance._get_current_object()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 526, in _get_current_object
+    return get_name(local())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 370, in _get_user
+    current_app.login_manager._load_user()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/login_manager.py", line 364, in _load_user
+    user = self._user_callback(user_id)
+  File "/var/www/project_flask/app/models.py", line 100, in load_user
+    return db.session.get(User, int(id))
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/scoping.py", line 1060, in get
+    return self._proxied.get(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3682, in get
+    return self._get_impl(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3862, in _get_impl
+    return db_load_fn(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/loading.py", line 694, in load_on_pk_identity
+    session.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2236, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2353, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+sqlalchemy.exc.ProgrammingError: (mysql.connector.errors.ProgrammingError) 1146 (42S02): Table 'testdb.user' doesn't exist
+[SQL: SELECT user.id AS user_id, user.username AS user_username, user.email AS user_email, user.password_hash AS user_password_hash, user.about_me AS user_about_me, user.last_seen AS user_last_seen, user.last_message_read_time AS user_last_message_read_time 
+FROM user 
+WHERE user.id = %(pk_1)s]
+[parameters: {'pk_1': 2}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 697, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1498, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1476, in wsgi_app
+    response = self.handle_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 823, in handle_exception
+    server_error = self.ensure_sync(handler)(server_error)
+  File "/var/www/project_flask/app/errors/handlers.py", line 14, in internal_error
+    return render_template('errors/500.html'), 500
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/templating.py", line 127, in _render
+    app.update_template_context(context)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 493, in update_template_context
+    context.update(self.ensure_sync(func)())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 405, in _user_context_processor
+    return dict(current_user=_get_user())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 370, in _get_user
+    current_app.login_manager._load_user()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/login_manager.py", line 364, in _load_user
+    user = self._user_callback(user_id)
+  File "/var/www/project_flask/app/models.py", line 100, in load_user
+    return db.session.get(User, int(id))
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/scoping.py", line 1060, in get
+    return self._proxied.get(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3682, in get
+    return self._get_impl(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3862, in _get_impl
+    return db_load_fn(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/loading.py", line 694, in load_on_pk_identity
+    session.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2236, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2353, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+sqlalchemy.exc.ProgrammingError: (mysql.connector.errors.ProgrammingError) 1146 (42S02): Table 'testdb.user' doesn't exist
+[SQL: SELECT user.id AS user_id, user.username AS user_username, user.email AS user_email, user.password_hash AS user_password_hash, user.about_me AS user_about_me, user.last_seen AS user_last_seen, user.last_message_read_time AS user_last_message_read_time 
+FROM user 
+WHERE user.id = %(pk_1)s]
+[parameters: {'pk_1': 2}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+[2024-08-12 12:56:40 +0300] [6140] [INFO] Handling signal: term
+[2024-08-12 12:56:40 +0300] [6142] [INFO] Worker exiting (pid: 6142)
+[2024-08-12 12:56:40 +0300] [6141] [INFO] Worker exiting (pid: 6141)
+[2024-08-12 12:56:40 +0300] [6144] [INFO] Worker exiting (pid: 6144)
+[2024-08-12 12:56:42 +0300] [6140] [INFO] Shutting down: Master
+[2024-08-12 12:56:44 +0300] [6208] [INFO] Starting gunicorn 22.0.0
+[2024-08-12 12:56:44 +0300] [6208] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (6208)
+[2024-08-12 12:56:44 +0300] [6208] [INFO] Using worker: sync
+[2024-08-12 12:56:44 +0300] [6209] [INFO] Booting worker with pid: 6209
+[2024-08-12 12:56:44 +0300] [6210] [INFO] Booting worker with pid: 6210
+[2024-08-12 12:56:44 +0300] [6211] [INFO] Booting worker with pid: 6211
+[2024-08-12 12:56:45,735] INFO in __init__: project_flask startup
+[2024-08-12 12:56:45,811] INFO in __init__: project_flask startup
+[2024-08-12 12:56:45,893] INFO in __init__: project_flask startup
+[2024-08-12 12:56:50,986] ERROR in app: Exception on /user/admin [GET]
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 697, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 878, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1253, in preprocess_request
+    rv = self.ensure_sync(before_func)()
+  File "/var/www/project_flask/app/main/routes.py", line 16, in before_request
+    if current_user.is_authenticated:
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 318, in __get__
+    obj = instance._get_current_object()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 526, in _get_current_object
+    return get_name(local())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 370, in _get_user
+    current_app.login_manager._load_user()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/login_manager.py", line 364, in _load_user
+    user = self._user_callback(user_id)
+  File "/var/www/project_flask/app/models.py", line 100, in load_user
+    return db.session.get(User, int(id))
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/scoping.py", line 1060, in get
+    return self._proxied.get(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3682, in get
+    return self._get_impl(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3862, in _get_impl
+    return db_load_fn(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/loading.py", line 694, in load_on_pk_identity
+    session.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2236, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2353, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+sqlalchemy.exc.ProgrammingError: (mysql.connector.errors.ProgrammingError) 1146 (42S02): Table 'testdb.user' doesn't exist
+[SQL: SELECT user.id AS user_id, user.username AS user_username, user.email AS user_email, user.password_hash AS user_password_hash, user.about_me AS user_about_me, user.last_seen AS user_last_seen, user.last_message_read_time AS user_last_message_read_time 
+FROM user 
+WHERE user.id = %(pk_1)s]
+[parameters: {'pk_1': 2}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+[2024-08-12 12:56:51 +0300] [6209] [ERROR] Error handling request /user/admin
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 697, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 878, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1253, in preprocess_request
+    rv = self.ensure_sync(before_func)()
+  File "/var/www/project_flask/app/main/routes.py", line 16, in before_request
+    if current_user.is_authenticated:
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 318, in __get__
+    obj = instance._get_current_object()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/werkzeug/local.py", line 526, in _get_current_object
+    return get_name(local())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 25, in <lambda>
+    current_user = LocalProxy(lambda: _get_user())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 370, in _get_user
+    current_app.login_manager._load_user()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/login_manager.py", line 364, in _load_user
+    user = self._user_callback(user_id)
+  File "/var/www/project_flask/app/models.py", line 100, in load_user
+    return db.session.get(User, int(id))
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/scoping.py", line 1060, in get
+    return self._proxied.get(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3682, in get
+    return self._get_impl(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3862, in _get_impl
+    return db_load_fn(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/loading.py", line 694, in load_on_pk_identity
+    session.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2236, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2353, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+sqlalchemy.exc.ProgrammingError: (mysql.connector.errors.ProgrammingError) 1146 (42S02): Table 'testdb.user' doesn't exist
+[SQL: SELECT user.id AS user_id, user.username AS user_username, user.email AS user_email, user.password_hash AS user_password_hash, user.about_me AS user_about_me, user.last_seen AS user_last_seen, user.last_message_read_time AS user_last_message_read_time 
+FROM user 
+WHERE user.id = %(pk_1)s]
+[parameters: {'pk_1': 2}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 697, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'testdb.user' doesn't exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 178, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1498, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1476, in wsgi_app
+    response = self.handle_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 823, in handle_exception
+    server_error = self.ensure_sync(handler)(server_error)
+  File "/var/www/project_flask/app/errors/handlers.py", line 14, in internal_error
+    return render_template('errors/500.html'), 500
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/templating.py", line 127, in _render
+    app.update_template_context(context)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 493, in update_template_context
+    context.update(self.ensure_sync(func)())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 405, in _user_context_processor
+    return dict(current_user=_get_user())
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 370, in _get_user
+    current_app.login_manager._load_user()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/login_manager.py", line 364, in _load_user
+    user = self._user_callback(user_id)
+  File "/var/www/project_flask/app/models.py", line 100, in load_user
+    return db.session.get(User, int(id))
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/scoping.py", line 1060, in get
+    return self._proxied.get(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3682, in get
+    return self._get_impl(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3862, in _get_impl
+    return db_load_fn(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/loading.py", line 694, in load_on_pk_identity
+    session.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2351, in execute
+    return self._execute_internal(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 2236, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1418, in execute
+    return meth(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1640, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2353, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 924, in do_execute
+    cursor.execute(statement, parameters)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/cursor_cext.py", line 372, in execute
+    result = self._cnx.cmd_query(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/opentelemetry/context_propagation.py", line 102, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/mysql/connector/connection_cext.py", line 705, in cmd_query
+    raise get_mysql_exception(
+sqlalchemy.exc.ProgrammingError: (mysql.connector.errors.ProgrammingError) 1146 (42S02): Table 'testdb.user' doesn't exist
+[SQL: SELECT user.id AS user_id, user.username AS user_username, user.email AS user_email, user.password_hash AS user_password_hash, user.about_me AS user_about_me, user.last_seen AS user_last_seen, user.last_message_read_time AS user_last_message_read_time 
+FROM user 
+WHERE user.id = %(pk_1)s]
+[parameters: {'pk_1': 2}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+[2024-08-12 13:06:05 +0300] [6208] [INFO] Handling signal: term
+[2024-08-12 13:06:05 +0300] [6209] [INFO] Worker exiting (pid: 6209)
+[2024-08-12 13:06:05 +0300] [6210] [INFO] Worker exiting (pid: 6210)
+[2024-08-12 13:06:05 +0300] [6211] [INFO] Worker exiting (pid: 6211)
+[2024-08-12 13:06:06 +0300] [6208] [INFO] Shutting down: Master
+[2024-08-12 13:06:09 +0300] [6420] [INFO] Starting gunicorn 22.0.0
+[2024-08-12 13:06:09 +0300] [6420] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (6420)
+[2024-08-12 13:06:09 +0300] [6420] [INFO] Using worker: sync
+[2024-08-12 13:06:09 +0300] [6421] [INFO] Booting worker with pid: 6421
+[2024-08-12 13:06:09 +0300] [6422] [INFO] Booting worker with pid: 6422
+[2024-08-12 13:06:09 +0300] [6423] [INFO] Booting worker with pid: 6423
+[2024-08-12 13:06:10,960] INFO in __init__: project_flask startup
+[2024-08-12 13:06:11,049] INFO in __init__: project_flask startup
+[2024-08-12 13:06:11,097] INFO in __init__: project_flask startup
+[2024-08-12 15:46:34 +0300] [6420] [CRITICAL] WORKER TIMEOUT (pid:6421)
+[2024-08-12 15:46:34 +0300] [6421] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-08-12 15:46:34 +0300] [6421] [INFO] Worker exiting (pid: 6421)
+[2024-08-12 15:46:34 +0300] [7944] [INFO] Booting worker with pid: 7944
+[2024-08-12 15:46:36,205] INFO in __init__: project_flask startup
+[2024-08-12 15:57:29 +0300] [6420] [CRITICAL] WORKER TIMEOUT (pid:6423)
+[2024-08-12 15:57:29 +0300] [6423] [ERROR] Error handling request (no URI read)
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 134, in handle
+    req = next(parser)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/parser.py", line 42, in __next__
+    self.mesg = self.mesg_class(self.cfg, self.unreader, self.source_addr, self.req_count)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/message.py", line 257, in __init__
+    super().__init__(cfg, unreader, peer_addr)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/message.py", line 60, in __init__
+    unused = self.parse(self.unreader)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/message.py", line 272, in parse
+    line, rbuf = self.read_line(unreader, buf, self.limit_request_line)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/message.py", line 324, in read_line
+    self.get_data(unreader, buf)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/message.py", line 260, in get_data
+    data = unreader.read()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/unreader.py", line 37, in read
+    d = self.chunk()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/http/unreader.py", line 64, in chunk
+    return self.sock.recv(self.mxchunk)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+[2024-08-12 15:57:29 +0300] [6423] [INFO] Worker exiting (pid: 6423)
+[2024-08-12 15:57:30 +0300] [7975] [INFO] Booting worker with pid: 7975
+[2024-08-12 15:57:31,401] INFO in __init__: project_flask startup
+[2024-08-12 20:40:27 +0300] [6420] [INFO] Handling signal: term
+[2024-08-12 20:40:27 +0300] [6422] [INFO] Worker exiting (pid: 6422)
+[2024-08-12 20:40:27 +0300] [7975] [INFO] Worker exiting (pid: 7975)
+[2024-08-12 20:40:27 +0300] [7944] [INFO] Worker exiting (pid: 7944)
+[2024-08-12 20:40:28 +0300] [6420] [INFO] Shutting down: Master
+[2024-08-14 19:31:12 +0300] [1291] [INFO] Starting gunicorn 22.0.0
+[2024-08-14 19:31:12 +0300] [1291] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (1291)
+[2024-08-14 19:31:12 +0300] [1291] [INFO] Using worker: sync
+[2024-08-14 19:31:12 +0300] [1389] [INFO] Booting worker with pid: 1389
+[2024-08-14 19:31:12 +0300] [1407] [INFO] Booting worker with pid: 1407
+[2024-08-14 19:31:12 +0300] [1416] [INFO] Booting worker with pid: 1416
+[2024-08-14 19:31:16,089] INFO in __init__: project_flask startup
+[2024-08-14 19:31:16,105] INFO in __init__: project_flask startup
+[2024-08-14 19:31:16,109] INFO in __init__: project_flask startup
+[2024-08-14 20:25:27 +0300] [1291] [INFO] Handling signal: term
+[2024-08-14 20:25:27 +0300] [1389] [INFO] Worker exiting (pid: 1389)
+[2024-08-14 20:25:27 +0300] [1407] [INFO] Worker exiting (pid: 1407)
+[2024-08-14 20:25:27 +0300] [1416] [INFO] Worker exiting (pid: 1416)
+[2024-08-14 20:25:28 +0300] [1291] [INFO] Shutting down: Master
+[2024-08-15 09:18:52 +0300] [1203] [INFO] Starting gunicorn 22.0.0
+[2024-08-15 09:18:52 +0300] [1203] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (1203)
+[2024-08-15 09:18:52 +0300] [1203] [INFO] Using worker: sync
+[2024-08-15 09:18:52 +0300] [1400] [INFO] Booting worker with pid: 1400
+[2024-08-15 09:18:52 +0300] [1420] [INFO] Booting worker with pid: 1420
+[2024-08-15 09:18:52 +0300] [1427] [INFO] Booting worker with pid: 1427
+[2024-08-15 09:19:01,381] INFO in __init__: project_flask startup
+[2024-08-15 09:19:01,383] INFO in __init__: project_flask startup
+[2024-08-15 09:19:01,389] INFO in __init__: project_flask startup
+[2024-08-15 20:41:11 +0300] [1203] [INFO] Handling signal: term
+[2024-08-15 20:41:11 +0300] [1400] [INFO] Worker exiting (pid: 1400)
+[2024-08-15 20:41:11 +0300] [1420] [INFO] Worker exiting (pid: 1420)
+[2024-08-15 20:41:11 +0300] [1427] [INFO] Worker exiting (pid: 1427)
+[2024-08-15 20:41:12 +0300] [1203] [INFO] Shutting down: Master
+[2024-08-16 09:14:29 +0300] [1363] [INFO] Starting gunicorn 22.0.0
+[2024-08-16 09:14:29 +0300] [1363] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (1363)
+[2024-08-16 09:14:29 +0300] [1363] [INFO] Using worker: sync
+[2024-08-16 09:14:29 +0300] [1466] [INFO] Booting worker with pid: 1466
+[2024-08-16 09:14:29 +0300] [1479] [INFO] Booting worker with pid: 1479
+[2024-08-16 09:14:29 +0300] [1480] [INFO] Booting worker with pid: 1480
+[2024-08-16 09:14:32,443] INFO in __init__: project_flask startup
+[2024-08-16 09:14:32,445] INFO in __init__: project_flask startup
+[2024-08-16 09:14:32,445] INFO in __init__: project_flask startup
+[2024-08-16 19:34:10 +0300] [1363] [INFO] Handling signal: term
+[2024-08-16 19:34:10 +0300] [1466] [INFO] Worker exiting (pid: 1466)
+[2024-08-16 19:34:10 +0300] [1479] [INFO] Worker exiting (pid: 1479)
+[2024-08-16 19:34:10 +0300] [1480] [INFO] Worker exiting (pid: 1480)
+[2024-08-16 19:34:10 +0300] [1363] [INFO] Shutting down: Master
+[2024-08-17 09:59:59 +0300] [1352] [INFO] Starting gunicorn 22.0.0
+[2024-08-17 09:59:59 +0300] [1352] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (1352)
+[2024-08-17 09:59:59 +0300] [1352] [INFO] Using worker: sync
+[2024-08-17 09:59:59 +0300] [1457] [INFO] Booting worker with pid: 1457
+[2024-08-17 10:00:00 +0300] [1466] [INFO] Booting worker with pid: 1466
+[2024-08-17 10:00:00 +0300] [1477] [INFO] Booting worker with pid: 1477
+[2024-08-17 10:00:03,024] INFO in __init__: project_flask startup
+[2024-08-17 10:00:03,036] INFO in __init__: project_flask startup
+[2024-08-17 10:00:03,037] INFO in __init__: project_flask startup
+[2024-08-17 13:00:46 +0300] [1352] [INFO] Handling signal: term
+[2024-08-17 13:00:46 +0300] [1477] [INFO] Worker exiting (pid: 1477)
+[2024-08-17 13:00:46 +0300] [1457] [INFO] Worker exiting (pid: 1457)
+[2024-08-17 13:00:46 +0300] [1466] [INFO] Worker exiting (pid: 1466)
+[2024-08-17 13:00:46 +0300] [1352] [INFO] Shutting down: Master
+[2024-08-17 13:00:48 +0300] [3006] [INFO] Starting gunicorn 22.0.0
+[2024-08-17 13:00:48 +0300] [3006] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (3006)
+[2024-08-17 13:00:48 +0300] [3006] [INFO] Using worker: sync
+[2024-08-17 13:00:48 +0300] [3007] [INFO] Booting worker with pid: 3007
+[2024-08-17 13:00:48 +0300] [3008] [INFO] Booting worker with pid: 3008
+[2024-08-17 13:00:48 +0300] [3009] [INFO] Booting worker with pid: 3009
+[2024-08-17 13:00:49,054] INFO in __init__: project_flask startup
+[2024-08-17 13:00:49,061] INFO in __init__: project_flask startup
+[2024-08-17 13:00:49,081] INFO in __init__: project_flask startup
+[2024-08-17 16:54:11 +0300] [3006] [INFO] Handling signal: term
+[2024-08-17 16:54:11 +0300] [3009] [INFO] Worker exiting (pid: 3009)
+[2024-08-17 16:54:11 +0300] [3008] [INFO] Worker exiting (pid: 3008)
+[2024-08-17 16:54:11 +0300] [3007] [INFO] Worker exiting (pid: 3007)
+[2024-08-17 16:54:12 +0300] [3006] [INFO] Shutting down: Master
+[2024-08-20 10:05:39 +0300] [1341] [INFO] Starting gunicorn 22.0.0
+[2024-08-20 10:05:39 +0300] [1341] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (1341)
+[2024-08-20 10:05:39 +0300] [1341] [INFO] Using worker: sync
+[2024-08-20 10:05:39 +0300] [1460] [INFO] Booting worker with pid: 1460
+[2024-08-20 10:05:39 +0300] [1463] [INFO] Booting worker with pid: 1463
+[2024-08-20 10:05:39 +0300] [1465] [INFO] Booting worker with pid: 1465
+[2024-08-20 10:05:44,981] INFO in __init__: project_flask startup
+[2024-08-20 10:05:44,984] INFO in __init__: project_flask startup
+[2024-08-20 10:05:44,987] INFO in __init__: project_flask startup
+[2024-08-20 10:58:04 +0300] [1341] [INFO] Handling signal: term
+[2024-08-20 10:58:04 +0300] [1463] [INFO] Worker exiting (pid: 1463)
+[2024-08-20 10:58:04 +0300] [1460] [INFO] Worker exiting (pid: 1460)
+[2024-08-20 10:58:04 +0300] [1465] [INFO] Worker exiting (pid: 1465)
+[2024-08-20 10:58:05 +0300] [1341] [INFO] Shutting down: Master
+[2024-08-20 10:58:06 +0300] [3561] [INFO] Starting gunicorn 22.0.0
+[2024-08-20 10:58:06 +0300] [3561] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (3561)
+[2024-08-20 10:58:06 +0300] [3561] [INFO] Using worker: sync
+[2024-08-20 10:58:06 +0300] [3562] [INFO] Booting worker with pid: 3562
+[2024-08-20 10:58:06 +0300] [3563] [INFO] Booting worker with pid: 3563
+[2024-08-20 10:58:06 +0300] [3564] [INFO] Booting worker with pid: 3564
+[2024-08-20 10:58:08,052] INFO in __init__: project_flask startup
+[2024-08-20 10:58:08,065] INFO in __init__: project_flask startup
+[2024-08-20 10:58:08,168] INFO in __init__: project_flask startup
+[2024-08-20 21:29:34 +0300] [3561] [INFO] Handling signal: term
+[2024-08-20 21:29:34 +0300] [3562] [INFO] Worker exiting (pid: 3562)
+[2024-08-20 21:29:34 +0300] [3563] [INFO] Worker exiting (pid: 3563)
+[2024-08-20 21:29:34 +0300] [3564] [INFO] Worker exiting (pid: 3564)
+[2024-08-20 21:29:35 +0300] [3561] [INFO] Shutting down: Master
+[2024-08-21 09:26:22 +0300] [1303] [INFO] Starting gunicorn 22.0.0
+[2024-08-21 09:26:22 +0300] [1303] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (1303)
+[2024-08-21 09:26:22 +0300] [1303] [INFO] Using worker: sync
+[2024-08-21 09:26:22 +0300] [1454] [INFO] Booting worker with pid: 1454
+[2024-08-21 09:26:22 +0300] [1478] [INFO] Booting worker with pid: 1478
+[2024-08-21 09:26:23 +0300] [1483] [INFO] Booting worker with pid: 1483
+[2024-08-21 09:26:26,130] INFO in __init__: project_flask startup
+[2024-08-21 09:26:26,131] INFO in __init__: project_flask startup
+[2024-08-21 09:26:26,131] INFO in __init__: project_flask startup
+[2024-08-21 16:35:05 +0300] [1303] [INFO] Handling signal: term
+[2024-08-21 16:35:05 +0300] [1478] [INFO] Worker exiting (pid: 1478)
+[2024-08-21 16:35:05 +0300] [1483] [INFO] Worker exiting (pid: 1483)
+[2024-08-21 16:35:05 +0300] [1454] [INFO] Worker exiting (pid: 1454)
+[2024-08-21 16:35:06 +0300] [1303] [INFO] Shutting down: Master
+[2024-08-21 17:57:43 +0300] [1228] [INFO] Starting gunicorn 22.0.0
+[2024-08-21 17:57:43 +0300] [1228] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (1228)
+[2024-08-21 17:57:43 +0300] [1228] [INFO] Using worker: sync
+[2024-08-21 17:57:43 +0300] [1368] [INFO] Booting worker with pid: 1368
+[2024-08-21 17:57:43 +0300] [1386] [INFO] Booting worker with pid: 1386
+[2024-08-21 17:57:43 +0300] [1401] [INFO] Booting worker with pid: 1401
+[2024-08-21 17:57:46,487] INFO in __init__: project_flask startup
+[2024-08-21 17:57:46,487] INFO in __init__: project_flask startup
+[2024-08-21 17:57:46,488] INFO in __init__: project_flask startup
+[2024-08-22 00:20:54 +0300] [1228] [INFO] Handling signal: term
+[2024-08-22 00:20:54 +0300] [1368] [INFO] Worker exiting (pid: 1368)
+[2024-08-22 00:20:54 +0300] [1401] [INFO] Worker exiting (pid: 1401)
+[2024-08-22 00:20:54 +0300] [1386] [INFO] Worker exiting (pid: 1386)
+[2024-08-22 00:20:55 +0300] [1228] [INFO] Shutting down: Master
+[2024-08-22 08:56:50 +0300] [1165] [INFO] Starting gunicorn 22.0.0
+[2024-08-22 08:56:50 +0300] [1165] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (1165)
+[2024-08-22 08:56:50 +0300] [1165] [INFO] Using worker: sync
+[2024-08-22 08:56:50 +0300] [1336] [INFO] Booting worker with pid: 1336
+[2024-08-22 08:56:50 +0300] [1350] [INFO] Booting worker with pid: 1350
+[2024-08-22 08:56:50 +0300] [1354] [INFO] Booting worker with pid: 1354
+[2024-08-22 08:56:59,114] INFO in __init__: project_flask startup
+[2024-08-22 08:56:59,132] INFO in __init__: project_flask startup
+[2024-08-22 08:56:59,134] INFO in __init__: project_flask startup
+[2024-08-22 10:37:08 +0300] [1165] [INFO] Handling signal: term
+[2024-08-22 10:37:08 +0300] [1336] [INFO] Worker exiting (pid: 1336)
+[2024-08-22 10:37:08 +0300] [1350] [INFO] Worker exiting (pid: 1350)
+[2024-08-22 10:37:08 +0300] [1354] [INFO] Worker exiting (pid: 1354)
+[2024-08-22 10:37:10 +0300] [1165] [INFO] Shutting down: Master
+[2024-08-22 10:37:43 +0300] [1059] [INFO] Starting gunicorn 22.0.0
+[2024-08-22 10:37:43 +0300] [1059] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (1059)
+[2024-08-22 10:37:43 +0300] [1059] [INFO] Using worker: sync
+[2024-08-22 10:37:43 +0300] [1217] [INFO] Booting worker with pid: 1217
+[2024-08-22 10:37:43 +0300] [1225] [INFO] Booting worker with pid: 1225
+[2024-08-22 10:37:43 +0300] [1226] [INFO] Booting worker with pid: 1226
+[2024-08-22 10:37:52,458] INFO in __init__: project_flask startup
+[2024-08-22 10:37:52,461] INFO in __init__: project_flask startup
+[2024-08-22 10:37:52,481] INFO in __init__: project_flask startup
+[2024-08-22 21:04:03 +0300] [1059] [INFO] Handling signal: term
+[2024-08-22 21:04:03 +0300] [1217] [INFO] Worker exiting (pid: 1217)
+[2024-08-22 21:04:03 +0300] [1225] [INFO] Worker exiting (pid: 1225)
+[2024-08-22 21:04:03 +0300] [1226] [INFO] Worker exiting (pid: 1226)
+[2024-08-22 21:04:05 +0300] [1059] [INFO] Shutting down: Master
+[2024-08-23 13:07:01 +0300] [1200] [INFO] Starting gunicorn 22.0.0
+[2024-08-23 13:07:01 +0300] [1200] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (1200)
+[2024-08-23 13:07:01 +0300] [1200] [INFO] Using worker: sync
+[2024-08-23 13:07:01 +0300] [1328] [INFO] Booting worker with pid: 1328
+[2024-08-23 13:07:01 +0300] [1351] [INFO] Booting worker with pid: 1351
+[2024-08-23 13:07:01 +0300] [1371] [INFO] Booting worker with pid: 1371
+[2024-08-23 13:07:05,234] INFO in __init__: project_flask startup
+[2024-08-23 13:07:05,255] INFO in __init__: project_flask startup
+[2024-08-23 13:07:05,257] INFO in __init__: project_flask startup
+[2024-08-23 16:15:37,104] ERROR in app: Exception on /search [GET]
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+  File "/var/www/project_flask/app/main/routes.py", line 199, in search
+    posts, total = Post.search(g.search_form.q.data, page,
+  File "/var/www/project_flask/app/models.py", line 23, in search
+    ids, total = query_index(cls.__tablename__, expression, page, per_page)
+  File "/var/www/project_flask/app/search.py", line 19, in query_index
+    search = current_app.elasticsearch.search(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/utils.py", line 446, in wrapped
+    return api(*args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/__init__.py", line 4119, in search
+    return self.perform_request(  # type: ignore[return-value]
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/_base.py", line 271, in perform_request
+    response = self._perform_request(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/_base.py", line 316, in _perform_request
+    meta, resp_body = self.transport.perform_request(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elastic_transport/_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elastic_transport/_node/_http_urllib3.py", line 202, in perform_request
+    raise err from None
+elastic_transport.TlsError: TLS error caused by: TlsError(TLS error caused by: SSLError([SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)))
+[2024-08-23 16:17:18 +0300] [1200] [INFO] Handling signal: term
+[2024-08-23 16:17:18 +0300] [1351] [INFO] Worker exiting (pid: 1351)
+[2024-08-23 16:17:18 +0300] [1328] [INFO] Worker exiting (pid: 1328)
+[2024-08-23 16:17:18 +0300] [1371] [INFO] Worker exiting (pid: 1371)
+[2024-08-23 16:17:19 +0300] [1200] [INFO] Shutting down: Master
+[2024-08-23 16:17:20 +0300] [6861] [INFO] Starting gunicorn 22.0.0
+[2024-08-23 16:17:20 +0300] [6861] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (6861)
+[2024-08-23 16:17:20 +0300] [6861] [INFO] Using worker: sync
+[2024-08-23 16:17:20 +0300] [6862] [INFO] Booting worker with pid: 6862
+[2024-08-23 16:17:20 +0300] [6863] [INFO] Booting worker with pid: 6863
+[2024-08-23 16:17:20 +0300] [6864] [INFO] Booting worker with pid: 6864
+[2024-08-23 16:17:21,998] INFO in __init__: project_flask startup
+[2024-08-23 16:17:22,022] INFO in __init__: project_flask startup
+[2024-08-23 16:17:22,041] INFO in __init__: project_flask startup
+[2024-08-23 16:17:34,277] ERROR in app: Exception on /search [GET]
+Traceback (most recent call last):
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/flask_login/utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+  File "/var/www/project_flask/app/main/routes.py", line 199, in search
+    posts, total = Post.search(g.search_form.q.data, page,
+  File "/var/www/project_flask/app/models.py", line 23, in search
+    ids, total = query_index(cls.__tablename__, expression, page, per_page)
+  File "/var/www/project_flask/app/search.py", line 19, in query_index
+    search = current_app.elasticsearch.search(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/utils.py", line 446, in wrapped
+    return api(*args, **kwargs)
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/__init__.py", line 4119, in search
+    return self.perform_request(  # type: ignore[return-value]
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/_base.py", line 271, in perform_request
+    response = self._perform_request(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elasticsearch/_sync/client/_base.py", line 316, in _perform_request
+    meta, resp_body = self.transport.perform_request(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elastic_transport/_transport.py", line 342, in perform_request
+    resp = node.perform_request(
+  File "/var/www/project_flask/venv/lib/python3.10/site-packages/elastic_transport/_node/_http_urllib3.py", line 202, in perform_request
+    raise err from None
+elastic_transport.TlsError: TLS error caused by: TlsError(TLS error caused by: SSLError([SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)))
+[2024-08-23 20:32:40 +0300] [6861] [INFO] Handling signal: term
+[2024-08-23 20:32:40 +0300] [6862] [INFO] Worker exiting (pid: 6862)
+[2024-08-23 20:32:40 +0300] [6864] [INFO] Worker exiting (pid: 6864)
+[2024-08-23 20:32:40 +0300] [6863] [INFO] Worker exiting (pid: 6863)
+[2024-08-23 20:32:40 +0300] [6861] [INFO] Shutting down: Master
+[2024-08-24 10:06:28 +0300] [1200] [INFO] Starting gunicorn 22.0.0
+[2024-08-24 10:06:28 +0300] [1200] [INFO] Listening at: unix:/var/www/project_flask/ipc.sock (1200)
+[2024-08-24 10:06:28 +0300] [1200] [INFO] Using worker: sync
+[2024-08-24 10:06:28 +0300] [1343] [INFO] Booting worker with pid: 1343
+[2024-08-24 10:06:28 +0300] [1355] [INFO] Booting worker with pid: 1355
+[2024-08-24 10:06:28 +0300] [1389] [INFO] Booting worker with pid: 1389
+[2024-08-24 10:06:31,418] INFO in __init__: project_flask startup
+[2024-08-24 10:06:31,419] INFO in __init__: project_flask startup
+[2024-08-24 10:06:31,428] INFO in __init__: project_flask startup
